@@ -319,7 +319,7 @@ $(function () {
 $(function () {
     $('.facebook').on('click', function(event) {
       event.preventDefault();
-      window.location.href = "https://facebook.com/";
+      window.location.href = "https://facebook.com/thehottopicsband";
     });
     $('.instagram').on('click', function(event) {
       event.preventDefault();
