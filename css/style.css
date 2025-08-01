@@ -211,12 +211,12 @@ section {
 .mainView {
   position: relative;
   min-height: 100vh;
-  max-height: 100vh;
   color: #9fa0ac;
-  background: url("../img/bcc-free-template-rock-hard.jpg");
-  background-size: cover;
-  background-position: center;
-  background-color: transparent;
+  background: url("../img/hottopicslogo.jpg");
+  background-size: 50% auto;        /* Scale to fit without cropping */
+  background-repeat: no-repeat;
+  background-position: center top; /* Keeps it aligned at top */
+  background-color: black;         /* Or any fallback color */
 }
 
 h1 {
