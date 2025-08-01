@@ -209,7 +209,6 @@ section {
 }
 
 .mainView {
-.mainView {
   position: relative;
   min-height: 80vh;              /* Shrinks from 100% screen height */
   max-height: none;
